@@ -1,5 +1,5 @@
 <body>
-    <h1>About Project</h1>
+    <h1>PORTOFOLIO</h1>
     <h2>Made With :</h2>
 <ul>
     <li>HTML</li>
