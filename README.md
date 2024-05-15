@@ -18,3 +18,6 @@
         </tr>
     </table>
 </body>
+Icon/Logo Resources :<br>
+https://www.tech-stack-icons.com<br>
+https://techicons.dev/
